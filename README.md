@@ -1,1 +1,1 @@
-The file contains sample of the supported delivered to enhance the client site with our themes.
+This repository contains a sample of a client website that I supported and enhanced, implementing feature updates and improvements in line with changing client requirements.
